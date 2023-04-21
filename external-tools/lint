@@ -1,0 +1,1 @@
+php vendor/bin/psalm --output-format=console --no-cache
